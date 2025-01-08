@@ -41,7 +41,7 @@ const LatestNews = () => {
             <div className="flex flex-wrap lg:flex-nowrap justify-start items-start gap-4">
               <div className="overflow-hidden w-80 h-64 cursor-pointer">
                 <Image
-                  src="/images/design-image.jpg"
+                  src="./images/design-image.jpg"
                   width={320}
                   height={256}
                   alt="latest news image"
@@ -60,7 +60,7 @@ const LatestNews = () => {
             <div className="flex flex-wrap lg:flex-nowrap justify-start items-start gap-4">
               <div className="overflow-hidden w-80 h-64 cursor-pointer">
                 <Image
-                  src="/images/team.jpg"
+                  src="./images/team.jpg"
                   width={320}
                   height={256}
                   unoptimized="true"

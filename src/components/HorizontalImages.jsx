@@ -4,14 +4,14 @@ import Image from "next/image";
 
 const HorizontalImages = () => {
   const images = [
-    { src: "/images/office1.jpg", alt: "Office Image 1" },
-    { src: "/images/office2.jpg", alt: "Office Image 2" },
-    { src: "/images/office3.jpg", alt: "Office Image 3" },
-    { src: "/images/office4.jpg", alt: "Office Image 4" },
-    { src: "/images/office5.jpg", alt: "Office Image 5" },
-    { src: "/images/office6.jpg", alt: "Office Image 6" },
-    { src: "/images/office7.jpg", alt: "Office Image 7" },
-    { src: "/images/office8.jpg", alt: "Office Image 8" },
+    { src: "./images/office1.jpg", alt: "Office Image 1" },
+    { src: "./images/office2.jpg", alt: "Office Image 2" },
+    { src: "./images/office3.jpg", alt: "Office Image 3" },
+    { src: "./images/office4.jpg", alt: "Office Image 4" },
+    { src: "./images/office5.jpg", alt: "Office Image 5" },
+    { src: "./images/office6.jpg", alt: "Office Image 6" },
+    { src: "./images/office7.jpg", alt: "Office Image 7" },
+    { src: "./images/office8.jpg", alt: "Office Image 8" },
   ];
   const containerRef = useRef(null);
   const [isDragging, setIsDragging] = useState(false);

@@ -39,28 +39,28 @@ const Featured = () => {
   const clients = [
     {
       id: 1,
-      image: "/images/kia.svg", // Replace with the actual image source or component
+      image: "./images/kia.svg", // Replace with the actual image source or component
       description:
         "In collaboration with Kia's development partner +OneX, we created a 'best-in-class' eCommerce experience underpinned and validated by an in-depth research study that focussed on incorporating the best possible UX principles and analyses.",
       button: "View Work",
     },
     {
       id: 2,
-      image: "/images/lemkus.svg", // Replace with the actual image source or component
+      image: "./images/lemkus.svg", // Replace with the actual image source or component
       description:
         "Lemkus reached out to us to create a new design system and conduct an overhaul of the brand's digital experience. The objective was to provide customers with seamless purchasing journeys and we did this by combining robust user experience with strong and engaging content.",
       button: "View Case Study",
     },
     {
       id: 3,
-      image: "/images/afrisam.svg", // Replace with the actual image source or component
+      image: "./images/afrisam.svg", // Replace with the actual image source or component
       description:
         "In collaboration with Promise Brand Specialists, we were tasked to create an elevated digital experience to reflect the innovative and performance-oriented nature of the brand. The primary goal of the website was to provide a seamless digital service when looking for key information as well as placing and paying for cement orders online.",
       button: "View Work",
     },
     {
       id: 4,
-      image: "/images/tigerwheel.svg", // Replace with the actual image source or component
+      image: "./images/tigerwheel.svg", // Replace with the actual image source or component
       description:
         "We were brought in to refresh their primary digital properties with a particular focus on building a robust eCommerce capability that re-imaged the way consumers purchase tyres, wheels, and batteries online. We achieved this by crafting an informative and intuitive purchasing experience, backed by comprehensive usability research and validation.",
       button: "View Case Study",

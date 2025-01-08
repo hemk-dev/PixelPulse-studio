@@ -63,25 +63,25 @@ const CaseStudies = () => {
         >
           {[
             {
-              src: "/images/solar.jpg",
+              src: "./images/solar.jpg",
               alt: "Solar panel",
               title: "ELEVATE ENERGY",
               description: "Research - Strategy - Design - Development",
             },
             {
-              src: "/images/sneakers.jpg",
+              src: "./images/sneakers.jpg",
               alt: "Sneakers",
               title: "SOLE MOTION",
               description: "Research - Strategy - Design - Content",
             },
             {
-              src: "/images/abstract.jpg",
+              src: "./images/abstract.jpg",
               alt: "Abstract art",
               title: "LUMINA ART",
               description: "Research - Strategy - Design - Development",
             },
             {
-              src: "/images/shoes.jpg",
+              src: "./images/shoes.jpg",
               alt: "Shoes",
               title: "URBAN KICKS",
               description: "Research - Strategy - Design - Development",
